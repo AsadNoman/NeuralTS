@@ -5,7 +5,7 @@
     "command": "tsc",
     "isShellCommand": true,
     "args": [
-        "-p", "ts/"
+        "-p", "src/"
     ],
     "showOutput": "silent",
     "problemMatcher": "$tsc",

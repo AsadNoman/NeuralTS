@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Node",
-            "program": "${workspaceRoot}/js/app.js",
+            "program": "${workspaceRoot}/built/NeuralTS.js",
             "console": "internalConsole",
             "sourceMaps": true,
             "address": "localhost",
